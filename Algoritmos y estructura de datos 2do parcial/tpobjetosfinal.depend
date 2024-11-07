@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1730857106 source:c:\workspace\tpobjetosfinal\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1730857048 c:\workspace\tpobjetosfinal\cliente.h
+	<string>
+
+1730864488 source:c:\workspace\tpobjetosfinal\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Empleado.h"
+	"Articulo.h"
+	"Pedido.h"
+
+1730857387 source:c:\workspace\tpobjetosfinal\empleado.cpp
+	"Empleado.h"
+	<iostream>
+
+1730857263 c:\workspace\tpobjetosfinal\empleado.h
+	<string>
+
+1730860186 source:c:\workspace\tpobjetosfinal\articulo.cpp
+	"Articulo.h"
+	<iostream>
+
+1730860186 c:\workspace\tpobjetosfinal\articulo.h
+	<string>
+
+1730863497 source:c:\workspace\tpobjetosfinal\pedido.cpp
+	"Pedido.h"
+
+1730863497 c:\workspace\tpobjetosfinal\pedido.h
+	"Cliente.h"
+	"Empleado.h"
+	"Articulo.h"
+
